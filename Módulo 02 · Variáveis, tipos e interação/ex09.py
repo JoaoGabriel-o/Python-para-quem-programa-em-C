@@ -7,6 +7,6 @@
 idade = 18
 altura = 1.73      # complete aqui (float)
 nome = 'Gabriel'   # complete aqui (str)
-aprovado = 'true'  # complete aqui (bool: True ou False)
+aprovado = True  # complete aqui (bool: True ou False)
 
 print(idade, altura, nome, aprovado)
