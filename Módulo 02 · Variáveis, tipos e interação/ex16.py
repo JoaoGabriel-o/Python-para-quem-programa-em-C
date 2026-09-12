@@ -6,6 +6,6 @@
 
 celsius = float(input("Temperatura em Celsius: "))
 
-fahrenheit = celsius * 9 / 5 + 32       # complete aqui
+fahrenheit = celsius * 9 / 5 + 32       # formula
 
-print(f"Essa temperatura em Fahrenheit é: {fahrenheit}")       # complete aqui: mostre algo como  25.0 C = 77.0 F
+print(f"Essa temperatura em Fahrenheit é: {fahrenheit}")       # mostre algo como  25.0 C = 77.0 F
